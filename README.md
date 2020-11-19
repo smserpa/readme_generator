@@ -30,6 +30,7 @@ Start app by running:
 ## Views
 
 Demonstration of inquirer prompts
+
 ![](assets/readme-cli.gif)
 
 Link to walkthrough video
