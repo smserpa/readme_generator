@@ -154,7 +154,7 @@ ${licenseObject.name}
 ${licenseObject.badge}
 
 
-## Contributions
+## Contributing
 
 ${contributions}
     
