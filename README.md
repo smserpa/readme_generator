@@ -35,7 +35,7 @@ Demonstration of inquirer prompts
 
 Link to walkthrough video
 
-[CLI Video Guide](https://drive.google.com/file/d/1JKxg3aZQCKVnf7Bm5MmdXIiB9LvCiIqi/view)
+[CLI Video Guide](https://drive.google.com/file/d/1JKxg3aZQCKVnf7Bm5MmdXIiB9LvCiIqi/view?usp=sharing)
 
 ## License
 
